@@ -1,2 +1,2 @@
 console.log("My name is Khum");
-console.log("I live in Chicago");
+console.log("I live in Chicago, Il");
